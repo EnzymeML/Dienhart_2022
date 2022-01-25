@@ -1,0 +1,15 @@
+# Sphinx documentation
+book/_build/*
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# requirements preparation
+freeze.txt
+
+# VS Code
+.vscode/*
