@@ -1,0 +1,23 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: welcome
+chapters:
+  - file: declaration
+  - file: abstract
+  - file: acknowledgements
+  - file: intro
+  - file: method
+  - file: scenarios
+    sections:
+    - file: Scenarios/Scenario1
+    - file: Scenarios/Scenario2
+    - file: Scenarios/Scenario3
+    - file: Scenarios/Scenario4
+  - file: discussion
+  - file: conclusion
+  - file: references
+  - file: appendix
+    sections:
+    - file: Scenarios/ScenarioA
